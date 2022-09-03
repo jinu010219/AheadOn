@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AheadOn studyingin Soongsil univer
-- 👀 I’m interested in python, kotlin (android)
-- 🌱 I’m currently learning FrontEnd
+- 👋 Hi, I’m @AheadOn studying in Soongsil univer
+- 👀 I’m interested in python, kotlin (android), C
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
